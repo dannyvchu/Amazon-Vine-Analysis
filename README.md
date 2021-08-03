@@ -18,7 +18,7 @@ The purpose of this analysis is to gain any insights on Amazon reviewers who are
 
 ### Amazon Vine Reviewers and Five Star Reviews
 
-![reviewDF](images/reviewDF.png)
+![reviewdf](images/reviewdf.png)
 
 Looking at this DataFrame, we can see the corresponding numbers of reviews for reviewers who are and are not part of the Vine program. Non-Vine reviewers compared to Vine partners had a much greater amount of reviews (135,483 vs 395) and five star reviews (15,663 vs 48). Non-Vine reviewers however, had a slightly lower percentage of five star reviews (11.56% vs 12.15%).
 
